@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>. <a href='mailto:wsh20@mails.tsinghua.edu.cn'>wsh20@mails.tsinghua.edu.cn</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Tsinghua University</p>
-    <p>Haidian District</p>
-    <p>Beijing, China</p>
+    <p>Photoed at Université Paris-Saclay</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
