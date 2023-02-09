@@ -2,25 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Shuaihu Wu
+    - name: Email
+      value: wsh20@mails.tsinghua.edu.cn
+    - name: Phone number
+      value: +86 18800109330
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's Student
+      institution: Tsinghua University, Beijing, China
+      year: 2020 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Lab of Precision Equipment and Control, Department of Mechanical Engineering
+        - GPA 3.63
+        - title: Research Field
           contents:
-            - Sub-description 1.
+            - Sensorless Control, Ultra-precision Control, Motor Driver Design
+        - title: Core courses
+          contents:
+            - Modern Mechatronics System, Intelligent Control of Mechatronics, Advanced Numerical Analysis
             - Sub-description 2.
+        - title: Scholarship
+          contents:
+            - Outstanding Postgraduate Students Award of Tsinghua University (First Prize) 
     - title: Federal teaching diploma
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
@@ -72,18 +78,18 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
+      items:
         - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
-      items: 
+      items:
         - Description 1.
         - Description 2.
     - title: Topic 2.
