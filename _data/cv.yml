@@ -9,12 +9,13 @@
       value: +86 18800109330
 
 - title: Education
-  type: time_table
+  type: time_table_education
   contents:
     - title: Master's Student
       institution: Tsinghua University, Beijing, China
       year: 2020 - now
       description:
+        - The top 2 University in China (QS Ranking 14)
         - Lab of Precision Equipment and Control, Department of Mechanical Engineering
         - GPA 3.63
         - title: Research Field
@@ -22,17 +23,39 @@
             - Sensorless Control, Ultra-precision Control, Motor Driver Design
         - title: Core courses
           contents:
-            - Modern Mechatronics System, Intelligent Control of Mechatronics, Advanced Numerical Analysis
-            - Sub-description 2.
+            - Modern Mechatronics System, Intelligent Control of Mechatronics, Advanced Numerical Analysis, etc.
         - title: Scholarship
           contents:
             - Outstanding Postgraduate Students Award of Tsinghua University (First Prize) 
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master's Degree in Engineering (Diplôme d’ingénieur)
+      institution: Université Paris-Saclay, Paris, France
+      year: 2018 - NOW
       description:
-        - Description 1.
-        - Description 2.
+        - A newly established university merged form some of the best schools in France (Ranked 16th in the world)
+        - GPA 4.00
+        - title: Core courses
+          contents:
+            - Enterprise Management, Financial Management, Philosophy, Algorithm, Electronics, Quantum Physics, etc.
+    - title: Dual Bachelor in Mathematics
+      institution: Université Paris-Saclay, Paris, France
+      year: 2019 - 2020
+      description:
+        - GPA 3.00
+        - title: Core courses
+          contents:
+            - Measure and Probability, Topology, Ordinary Differential Equation, Abstract Algebra, Holomorphic Function, etc.
+    - title: Bachelor in Mechanical Engineering
+      institution: Tsinghua University, Beijing, China
+      year: 2016 - 2020
+      description:
+        - GPA 3.37
+        - Selected to study in France from the third year
+        - title: Core courses
+          contents:
+            - Theoretical Mechanics, Calculus, Linear Algebra, Discrete Mathematics, Basic Program Design, etc.
+        - title: Scholarship
+          contents:
+            - China Scholarship Council (CSC) Scholarship
 
 - title: Experience
   type: time_table
