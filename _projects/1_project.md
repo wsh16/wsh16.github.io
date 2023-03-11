@@ -43,13 +43,10 @@ We designed a sensorless control algorithm based on flux estimation. The basic p
 
 ## Experiment Results
 
-<video width="320" height="240" controls>
+<video width="720" height="480" controls>
   <source src="motor_sensorless.mp4" type="video/mp4">
   <source src="motor_sensorless.webm" type="video/webm">
-  <object data="motor_sensorless.mp4" width="320" height="240">
-    <embed src="motor_sensorless.swf" width="320" height="240">
+  <object data="motor_sensorless.mp4" width="720" height="480">
+    <embed src="motor_sensorless.swf" width="720" height="480">
   </object>
 </video>
-
-
-<a href="motor_sensorless.swf">Play a video file</a>
