@@ -11,19 +11,19 @@
 - title: Education
   type: time_table_education
   contents:
-    - title: Master's Student
+    - title: Master in science on mechanical engineering
       institution: Tsinghua University, Beijing, China
       year: 2020 - now
       description:
         - The top 2 University in China (QS Ranking 14)
         - Lab of Precision Equipment and Control, Department of Mechanical Engineering
-        - GPA 3.63
+        - GPA 3.63/4.0
         - title: Research Field
           contents:
             - Sensorless Control, Ultra-precision Control, Motor Driver Design
         - title: Core courses
           contents:
-            - Modern Mechatronics System, Intelligent Control of Mechatronics, Advanced Numerical Analysis, etc.
+            - Modern Mechatronics System, Introduction to Modern Control Theories and Methods, Advanced Numerical Analysis, Mechatronic Intelligent Control Engineering, etc.
         - title: Scholarship
           contents:
             - Outstanding Postgraduate Students Award of Tsinghua University (First Prize) 
@@ -32,7 +32,7 @@
       year: 2018 - NOW
       description:
         - A newly established university merged form some of the best schools in France (Ranked 16th in the world)
-        - GPA 4.00
+        - GPA 4.00/4.3
         - title: Core courses
           contents:
             - Enterprise Management, Financial Management, Philosophy, Algorithm, Electronics, Quantum Physics, etc.
@@ -40,7 +40,7 @@
       institution: Université Paris-Saclay, Paris, France
       year: 2019 - 2020
       description:
-        - GPA 3.00
+        - GPA 3.00/4.0
         - title: Core courses
           contents:
             - Measure and Probability, Topology, Ordinary Differential Equation, Abstract Algebra, Holomorphic Function, etc.
@@ -48,7 +48,7 @@
       institution: Tsinghua University, Beijing, China
       year: 2016 - 2020
       description:
-        - GPA 3.37
+        - GPA 3.37/4.0
         - Selected to study in France from the third year
         - title: Core courses
           contents:
