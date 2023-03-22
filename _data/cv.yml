@@ -107,16 +107,16 @@
     - <b>Coding:</b>&emsp;&emsp;&emsp;&emsp; Python, C++, LaTeX
     - <b>Software:</b>&emsp;&emsp;&emsp; MATLAB, SolidWorks, AutoCAD
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 
