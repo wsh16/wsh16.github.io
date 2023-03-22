@@ -2,7 +2,7 @@
 layout: page
 title: Under-mine Robot
 description: Under-mine Robot Design and Prototype Manufacturing
-img: assets/img/3.jpg
+img: assets/img/robot1.jpg
 importance: 2
 category: In Tsinghua University
 ---
@@ -23,5 +23,15 @@ Coal mining is a harsh and dangerous environment, but the complex terrain and sm
 
 ## Prototype Manufacture
 
-Making a prototype robot with our own hands is a process full of sweat and joy.
+Making a prototype robot with our own hands is a process full of sweat and joy. Here is a photo me fixing the robot taken by another member of the lab.
+
+## Demo video
+
+<video width="480" height="850" controls>
+  <source src="robot_demo.mp4" type="video/mp4">
+  <source src="robot_demo.webm" type="video/webm">
+  <object data="robot_demo.mp4" width="720" height="480">
+    <embed src="robot_demo.swf" width="720" height="480">
+  </object>
+</video>
 
