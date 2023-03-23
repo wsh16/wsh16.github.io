@@ -21,9 +21,9 @@ Coal mining is a harsh and dangerous environment, but the complex terrain and sm
     The structure of our prototype
 </div>
 
-## Prototype Manufacture
+<!-- ## Prototype Manufacture
 
-Making a prototype robot with our own hands is a process full of sweat and joy. Here is a photo me fixing the robot taken by another member of the lab.
+Making a prototype robot with our own hands is a process full of sweat and joy. Here is a photo me fixing the robot taken by another member of the lab. -->
 
 ## Demo video
 

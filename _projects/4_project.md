@@ -23,7 +23,7 @@ In the February and March 2022, Beijing hold the winter Olympic and Paralympic g
 
 As a doping control chaperone, I need to inform the the selected athletes (usually medalists!) to do doping tests and accompany them to the doping control station. It is a kind of boring job because we cannot take photo with them or ask for signature, and to be honest, many athletes are not happy to be selected to do the test. But this is still a meaningful job since it is helping keeping the game clean. And there are also many exciting moments in the job. We can watch the game at a really close distance and can even ski if necessary. The doping control team is really a warm family and we developed deep friendship during the two months.
 
-div class="row">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Olympic2.jpg" title="Team" class="img-fluid rounded z-depth-1" %}
     </div>

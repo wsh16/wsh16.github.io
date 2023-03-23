@@ -2,7 +2,7 @@
 layout: page
 title: Sensorless Control
 description: Sensorless control of linear motors.
-img: assets/img/PositionSensors.png
+img: assets/img/scheme.jpg
 importance: 1
 category: In Tsinghua University
 ---
