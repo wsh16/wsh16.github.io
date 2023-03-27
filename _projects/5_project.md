@@ -15,11 +15,11 @@ Perhaps I was the most unlucky president in the history of Chinese-French Associ
         {% include figure.html path="assets/img/AFC1.jpg" title="wine" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/AFC2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/AFC2.jpg" title="movie" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Cooperation with the association of wine at Tsinghua to introduce French wine culture to association members
+    Fig 1. Cooperation with the association of wine at Tsinghua to introduce French wine culture to association members. Fig 2. Me sharing background knowledge involved in a French movie.
 </div>
 
 <div class="row justify-content-sm-center">
