@@ -4,7 +4,7 @@ title: Under-mine Robot
 description: Under-mine Robot Design and Prototype Manufacturing
 img: assets/img/robot1.jpg
 importance: 2
-category: In Tsinghua University
+category: Projects
 ---
 
 ## Backgrounds

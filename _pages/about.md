@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='mailto:wsh20@mails.tsinghua.edu.cn'>wsh20@mails.tsinghua.edu.cn</a>
 

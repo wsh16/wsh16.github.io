@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects related to academic and professional experience.
 nav: true
 nav_order: 2
-display_categories: [In Tsinghua University, In Université Paris-Saclay]
+display_categories: [Projects]
 horizontal: false
 ---
 

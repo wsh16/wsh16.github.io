@@ -60,17 +60,16 @@
 - title: Research and Professional Experience
   type: time_table_projects
   contents:
-    - title: Research on sensorless control
+    - title: Research on sensorless control <a href="/projects/1_project">(Link)</a> 
       institution: Tsinghua University, Beijing
-      year: 2020 - now
+      year: 2020 -now
       description:
         - Proposed a novel flux estimator that can improve the performance of sensorless control in full speed range, increasing its accuracy and dynamic response.
         - Built an experiment set including a permanent magnet linear synchronous motor, a motor driver and a controller.
         - Achieved a sensorless position estimation accuracy less than 50 micro meters.
         - Paper (first author) accepted by the 2022 IEEE/ASME international conference on Advanced Intelligence Mechatronics and made an oral report.
-        - more details can be found in <a href="/projects/">Projects</a> 
 
-    - title: Under-mine Robot Design and Prototype Manufacturing
+    - title: Under-mine Robot Design and Prototype Manufacturing <a href="/projects/2_project">(Link)</a> 
       institution: Tsinghua University, Beijing
       year: 2021
       description:
@@ -79,7 +78,7 @@
         - Designed and built a high load (> 10kg) gimbal and its auto-balance system.
         - Drafted 3 patents (under review).
 
-    - title: Internship as a Production Line Worker
+    - title: Internship as a Production Line Worker <a href="/projects/6_project">(Link)</a> 
       institution: Renault Factory, Paris
       year: 2019
       description:
@@ -100,12 +99,49 @@
       - Work including customer Profiling, coding and UI design.
       - programmed an application which can produce a dashboard on customer's reputation on social media.
 
+
+- title: Activities
+  type: time_table_activities
+  contents:
+    - title: Volunteer of 2022 Beijing Winter Olympics <a href="/projects/4_project">(Link)</a> 
+      institution: Beijing, China
+      year: 2022
+      description:
+        - Worked in the anti-doping team during the Olympic and Paralympic games.
+        - Honored as "Outstanding Volunteer in Olympics of Tsinghua University" (10% of the volunteers).
+
+    - title: President of Chinese-French Association of Tsinghua University <a href="/projects/5_project">(Link)</a> 
+      institution: Beijing, China
+      year: 2020-2021
+      description:
+        - Organized several activities about French culture and volunteered at the French embassy to help to promote French education.
+        - Invited to attend the national day dinner party at the French embassy.
+
+    - title: Work-Exchange in a Swiss Family <a href="/projects/5_project">(Link)</a> 
+      institution: Sion, Switzerland
+      year: 2019
+      description:
+        - Living with local people, worked on a Swiss farm in exchange for food and accommodation.
+
+    - title: Class Leader at Tsinghua University
+      institution: Beijing, China
+      year: 2017-2018
+      description:
+        - Elected as the class leader serving 30 students at Tsinghua University.
+        - Organized several meetings to discuss concerned issues and several activities to increase the sense of belonging.
+
+    - title: Half Marathon Finisher
+      institution:  Beijing, China
+      year: 2018
+      description:
+      - Finished a half marathon of 21km.
+
 - title: Pratical skills
   type: list
   contents:
     - <b>Languages:</b>&emsp;&emsp; English(IELTS 7.5), French(level B2), Chinese(Native)
     - <b>Coding:</b>&emsp;&emsp;&emsp;&emsp; Python, C++, LaTeX
-    - <b>Software:</b>&emsp;&emsp;&emsp; MATLAB, SolidWorks, AutoCAD
+    - <b>Software:</b>&emsp;&emsp;&emsp; MATLAB, Simulink, SolidWorks, AutoCAD
 
 # - title: Academic Interests
 #   type: nested_list

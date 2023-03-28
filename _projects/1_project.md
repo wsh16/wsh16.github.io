@@ -4,7 +4,7 @@ title: Sensorless Control
 description: Sensorless control of linear motors.
 img: assets/img/scheme.jpg
 importance: 1
-category: In Tsinghua University
+category: Projects
 ---
 
 The thesis of my master's degree is on sensorless control of linear motors. It is a two-year long research with theoretical innovation and experimental verification. The work is carried out in cooperation with a doctoral student Ziyan Zhao.

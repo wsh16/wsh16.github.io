@@ -27,6 +27,8 @@ layout: default
                    {% include cv/time_table_education.html %}
                   {% elsif entry.type == "time_table_projects" %}
                    {% include cv/time_table_projects.html %}
+                  {% elsif entry.type == "time_table_activities" %}
+                   {% include cv/time_table_activities.html %}
                   {% else %}
                     {{ entry.contents }}
                   {% endif %}
