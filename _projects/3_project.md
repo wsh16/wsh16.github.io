@@ -26,7 +26,7 @@ I work 6 hours a day and 5 days a week. The labor work can be tough but the time
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Swiss4.png" title="rabbits" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Swiss4.jpg" title="rabbits" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Swiss5.jpg" title="bees" class="img-fluid rounded z-depth-1" %}
