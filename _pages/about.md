@@ -26,7 +26,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 [mylink](https://www.baidu.cosm) -->
 
-Hi, this is Shuaihu. I'm currently a master's student at the department of mechanical engineering, Tsinghua University. You can find more about me in [my CV](/cv/), [research projects](/projects/) and [social activities](/activities/).
+Hi, this is Shuaihu. Obtained my master's diploma at the department of mechanical engineering, Tsinghua University, I'm currently a mechanical engineer at NAURA. You can find more about me in [my CV](/cv/), [research projects](/projects/) and [social activities](/activities/).
 
 **In terms of personality**, I am optimistic, easy-going, emotionally stable and able to withstand pressure. I have lived in more than **5** different cities for more than **two** years, thus have strong adaptability to new environments and have communication skills with people from different environments and culture. 
 
