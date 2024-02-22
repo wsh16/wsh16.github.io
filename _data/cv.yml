@@ -57,17 +57,30 @@
           contents:
             - China Scholarship Council (CSC) Scholarship
 
-- title: Research and Professional Experience
+
+- title: Working Experiences
+  type: time_table_projects
+  contents:
+    - title: Mechanical Engineer 
+      institution: NAURA Technology Group, Beijing
+      year: 2023 -now
+      description:
+        - Working in the business unit of Plasma Etch System in NAURA Technology Group, which is the largest semiconductor equipment manufacturer in China.
+        - Work includes design of mechanical structures, drawing, new parts development with suppliers, principle prototype construction and testing.
+        - Recognized as an outstanding trainee in the two-month new employee training, made a speech in the closing ceremony as trainee representative.
+
+- title: Research and Projects
   type: time_table_projects
   contents:
     - title: Research on sensorless control <a href="/projects/1_project">(Link)</a> 
       institution: Tsinghua University, Beijing
-      year: 2020 -now
+      year: 2020 -n2023
       description:
         - Proposed a novel flux estimator that can improve the performance of sensorless control in full speed range, increasing its accuracy and dynamic response.
         - Built an experiment set including a permanent magnet linear synchronous motor, a motor driver and a controller.
         - Achieved a sensorless position estimation accuracy less than 50 micro meters.
         - Paper (first author) accepted by the 2022 IEEE/ASME international conference on Advanced Intelligence Mechatronics and made an oral report.
+        - Paper (first author) accepted by the IEEE Transactions on Industrial Electronics.
 
     - title: Under-mine Robot Design and Prototype Manufacturing <a href="/projects/2_project">(Link)</a> 
       institution: Tsinghua University, Beijing
