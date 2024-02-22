@@ -59,7 +59,7 @@
 
 
 - title: Working Experiences
-  type: time_table_projects
+  type: time_table
   contents:
     - title: Mechanical Engineer 
       institution: NAURA Technology Group, Beijing
@@ -74,7 +74,7 @@
   contents:
     - title: Research on sensorless control <a href="/projects/1_project">(Link)</a> 
       institution: Tsinghua University, Beijing
-      year: 2020 -n2023
+      year: 2020 -2023
       description:
         - Proposed a novel flux estimator that can improve the performance of sensorless control in full speed range, increasing its accuracy and dynamic response.
         - Built an experiment set including a permanent magnet linear synchronous motor, a motor driver and a controller.
